@@ -1,0 +1,19 @@
+{
+  "name": "ngRouteProvider",
+  "version": "0.0.0",
+  "authors": [
+    "Gonzalo Ayuso <gonzalo123@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.10",
+    "angular": "~1.2.18"
+  }
+}

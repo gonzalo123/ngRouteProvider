@@ -1,0 +1,16 @@
+{
+    "xxx": {
+        "url": "/xxx",
+        "templateUrl": "templates/xxx.html"
+    },
+
+    "yyy": {
+        "url": "/yyy",
+        "templateUrl": "templates/yyy.html"
+    },
+
+    "zzz": {
+        "url": "/zzz",
+        "templateUrl": "templates/zzz.html"
+    }
+}
